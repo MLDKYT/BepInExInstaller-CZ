@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31903.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BepInExInstaller", "BepInExInstaller\BepInExInstaller.csproj", "{99614F71-882A-4C4A-A07D-895021191B0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99614F71-882A-4C4A-A07D-895021191B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99614F71-882A-4C4A-A07D-895021191B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99614F71-882A-4C4A-A07D-895021191B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99614F71-882A-4C4A-A07D-895021191B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40A0C54F-E72B-4149-9431-1A4CA2F6473E}
+	EndGlobalSection
+EndGlobal
